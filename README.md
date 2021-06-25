@@ -1,1 +1,1 @@
-# .github
+# A repo with issues disabled
